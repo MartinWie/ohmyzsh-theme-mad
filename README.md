@@ -1,6 +1,6 @@
 # ohmyzsh-theme-mad
 My personal oh-my-zsh theme.
-![logo](https://raw.githubusercontent.com//MartinWie/ohmyzsh-theme-mad/master/logo.png)
+![logo](https://raw.githubusercontent.com//MartinWie/ohmyzsh-theme-mad/master/logo_zsh_theme.png)
 
 ## Image
 ![mad](https://raw.githubusercontent.com//MartinWie/ohmyzsh-theme-mad/master/mad.png)

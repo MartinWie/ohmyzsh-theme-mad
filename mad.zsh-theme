@@ -5,11 +5,10 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
     {
         gdate
     } || {
-        echo "\n$fg_bold[yellow]passsion.zsh-theme depends on cmd [gdate] to get current time in milliseconds$reset_color"
+        echo "\n$fg_bold[yellow]mad.zsh-theme depends on cmd [gdate] to get current time in milliseconds$reset_color"
         echo "$fg_bold[yellow][gdate] is not installed by default in macOS$reset_color"
         echo "$fg_bold[yellow]to get [gdate] by running:$reset_color"
         echo "$fg_bold[green]brew install coreutils;$reset_color";
-        echo "$fg_bold[yellow]\nREF: https://github.com/ChesterYue/ohmyzsh-theme-passion#macos\n$reset_color"
     }
 fi
 
